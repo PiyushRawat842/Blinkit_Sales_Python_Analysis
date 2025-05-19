@@ -1,7 +1,9 @@
 📌 Project Summary
+
 In this data analysis project, I explored and visualized sales data from Blinkit, a quick commerce company, to uncover insights about customer behavior, product trends, and sales performance. The project was executed entirely in Python using popular data science libraries like pandas, matplotlib, and seaborn.
 
 🛠️ Tools & Libraries
+
 Python
 
 Pandas for data manipulation and cleaning
