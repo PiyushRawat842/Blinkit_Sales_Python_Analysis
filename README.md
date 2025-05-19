@@ -13,32 +13,29 @@ NumPy for numerical operations
 Matplotlib & Seaborn for data visualization
 
 🧩 Key Steps Undertaken:
-Data Import & Cleaning:
 
-Loaded a CSV file containing Blinkit's sales data.
+1)Data Import & Cleaning: Loaded a CSV file containing Blinkit's sales data.Handled encoding issues during import.
 
-Handled encoding issues during import.
+2)Cleaned the dataset by dealing with missing values and standardizing data formats.
 
-Cleaned the dataset by dealing with missing values and standardizing data formats.
+3)Exploratory Data Analysis (EDA):
 
-Exploratory Data Analysis (EDA):
+-Analyzed product-wise and category-wise sales performance.
 
-Analyzed product-wise and category-wise sales performance.
+-Identified best-selling products and top-performing categories.
 
-Identified best-selling products and top-performing categories.
+-Explored sales distribution over days, months, and other time-based trends.
 
-Explored sales distribution over days, months, and other time-based trends.
+4)Visualization:
 
-Visualization:
+-Created insightful visualizations using bar plots, histograms, and pie charts.
 
-Created insightful visualizations using bar plots, histograms, and pie charts.
+-Highlighted patterns in customer preferences and seasonal sales peaks.
 
-Highlighted patterns in customer preferences and seasonal sales peaks.
+5)Actionable Insights:
 
-Actionable Insights:
+-Discovered which products are consistently high performers.
 
-Discovered which products are consistently high performers.
+-Identified potential low-performing SKUs for optimization.
 
-Identified potential low-performing SKUs for optimization.
-
-Analyzed the impact of seasonal changes and days of the week on sales volume.
+-Analyzed the impact of seasonal changes and days of the week on sales volume.
