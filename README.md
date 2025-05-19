@@ -4,13 +4,13 @@ In this data analysis project, I explored and visualized sales data from Blinkit
 
 🛠️ Tools & Libraries
 
-Python
+1)Python
 
-Pandas for data manipulation and cleaning
+2)Pandas for data manipulation and cleaning
 
-NumPy for numerical operations
+3)NumPy for numerical operations
 
-Matplotlib & Seaborn for data visualization
+4)Matplotlib & Seaborn for data visualization
 
 🧩 Key Steps Undertaken:
 
