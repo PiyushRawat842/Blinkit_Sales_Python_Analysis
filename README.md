@@ -24,11 +24,11 @@ In this data analysis project, I explored and visualized sales data from Blinkit
 
 - Explored sales distribution over days, months, and other time-based trends.
 
-4)Visualization: Created insightful visualizations using bar plots, histograms, and pie charts.
+4) Visualization: Created insightful visualizations using bar plots, histograms, and pie charts.
 
 -Highlighted patterns in customer preferences and seasonal sales peaks.
 
-5)Actionable Insights: Discovered which products are consistently high performers.
+5) Actionable Insights: Discovered which products are consistently high performers.
 
 -Identified potential low-performing SKUs for optimization.
 
